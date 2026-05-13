@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Saripati ASIA | Agricultural Commodity Trading",
+    "description": "B2B sourcing for spices, coconut products, charcoal, coffee, essential oils, and specialty agricultural commodities across Asia.",
+    "keywords": "commodity trading, spices export, copra, coconut charcoal, robusta coffee, patchouli oil, Indonesia agricultural exports, bulk B2B"
+  },
+  "nav": {
+    "products": "Products",
+    "contact": "Contact",
+    "location": "Location",
+    "language": "Language",
+    "tagline": "Commodity trading"
+  },
+  "hero": {
+    "eyebrow": "Agricultural commodity trading",
+    "title": "Trusted supply for global buyers",
+    "subtitle": "Saripati ASIA connects mills, cooperatives, and packers with roasters, manufacturers, and distributors who need consistent quality at scale.",
+    "ctaPrimary": "Request a bulk quote",
+    "ctaSecondary": "Explore categories",
+    "panel": {
+      "a": { "title": "QC at origin", "body": "Moisture, admixture, and oil parameters matched to your PO." },
+      "b": { "title": "Trade desk", "body": "English & Bahasa Indonesia coordination with mills and labs." },
+      "c": { "title": "Pack styles", "body": "Bulk, retail-ready, and private-label formats on request." },
+      "d": { "title": "Core lanes", "body": "Spices, coconut derivatives, charcoal, coffee, oils, specialty crops." }
+    }
+  },
+  "valueProps": {
+    "title": "Built for serious B2B trade",
+    "items": {
+      "quality": {
+        "title": "Export-grade specs",
+        "body": "Screen sizes, moisture, oil content, and foreign matter controlled to your checklist."
+      },
+      "logistics": {
+        "title": "Shipment-ready packing",
+        "body": "Jute, PP, vacuum, or industrial formats aligned with port and insurance requirements."
+      },
+      "compliance": {
+        "title": "Traceable documentation",
+        "body": "Certificates of origin, phytosanitary, and lab tests coordinated with your forwarder."
+      }
+    }
+  },
+  "products": {
+    "title": "Commodity catalog",
+    "subtitle": "Grouped for fast navigation. Tap a category to review grades and local names.",
+    "subtitleCategories": "Browse by category. Each page lists export grades, local trade names, and inquiry paths for that line.",
+    "variantsLabel": "Grades & cuts",
+    "inquireCta": "Inquire about this line"
+  },
+  "categoryCards": {
+    "explore": "Explore category"
+  },
+  "categoryPage": {
+    "breadcrumbHome": "Home",
+    "heroTitle": "Premium {category} from Indonesia"
+  },
+  "productList": {
+    "heading": "Products in this category",
+    "subheading": "Select a commodity to view grades, specifications, and request a tailored quote.",
+    "viewDetails": "View details"
+  },
+  "productPage": {
+    "breadcrumbHome": "Home",
+    "specsTitle": "Specifications & variants",
+    "specsIntro": "Representative grades and cuts we coordinate with mills and packers. Final specs follow your PO and lab checks.",
+    "specsColVariant": "Grade / variant",
+    "specsColNotes": "Packing & QC",
+    "specsRowNotes": "Bulk formats (jute, PP, paper), moisture, admixture, and certificates matched to your contract.",
+    "specsFootnote": "Need a different cut, screen, or destination documentation?",
+    "specsFootnoteCta": "Contact the trade desk",
+    "specs": {
+      "standardRow": "Standard export listing"
+    },
+    "inquiryTitle": "Request a quote for {product}",
+    "inquirySubtitle": "Tell us volume, destination port, and target parameters. We will confirm availability and indicative terms for this SKU."
+  },
+  "metaCategory": {
+    "title": "{category} bulk export | Saripati ASIA",
+    "description": "{category} — {summary} B2B sourcing, grades, and shipment-ready packing from Indonesia."
+  },
+  "metaProduct": {
+    "title": "{product} bulk B2B | Saripati ASIA",
+    "description": "{product} ({category}) for international buyers. Grades include: {variants}. Request specs, packing, and documentation for your port.",
+    "keywords": "{product}, {category}, bulk export Indonesia, commodity trading, Saripati ASIA"
+  },
+  "contact": {
+    "title": "Contact us",
+    "subtitle": "Share your volume, destination port, and target specs. Our trade desk replies with availability and indicative pricing.",
+    "fields": {
+      "company": "Company name",
+      "name": "Full name",
+      "email": "Work email",
+      "phone": "Phone / WhatsApp",
+      "commodity": "Commodity of interest",
+      "volume": "Estimated monthly volume",
+      "message": "Requirements & incoterms"
+    },
+    "placeholders": {
+      "company": "e.g. Pacific Ingredients Ltd.",
+      "name": "Your name",
+      "email": "you@company.com",
+      "phone": "Include country code",
+      "commodity": "Select or describe a product line",
+      "volume": "e.g. 2–5 FCL per month",
+      "message": "Specs, packaging, certifications, destination…"
+    },
+    "submit": "Send inquiry",
+    "sending": "Sending…",
+    "success": "Thank you. Your inquiry was received. We will respond within one business day.",
+    "error": "Something went wrong. Please try again or email us directly."
+  },
+  "location": {
+    "title": "Visit & logistics",
+    "subtitle": "Coordinate inspections, sample pickups, and documentation with our operations team.",
+    "addressLabel": "Registered address",
+    "addressLines": "Saripati ASIA — Commodity Trading\nJakarta Special Capital Region\nIndonesia",
+    "note": "Update this block with your legal entity address and tax identifiers as soon as they are finalized.",
+    "mapTitle": "Map preview",
+    "openMaps": "Open in OpenStreetMap"
+  },
+  "footer": {
+    "rights": "© {year} Saripati ASIA. All rights reserved.",
+    "tagline": "Agricultural commodities for global supply chains."
+  },
+  "language": {
+    "en": "English",
+    "id": "Bahasa Indonesia"
+  }
+}

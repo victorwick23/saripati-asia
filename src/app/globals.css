@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Derived from /logo/logo.png — deep forest + chartreuse accent */
+  --color-brand-primary: #0f5132;
+  --color-brand-primary-hover: #0a3d26;
+  --color-brand-accent: #9fcc3a;
+  --color-brand-accent-muted: #b8e063;
+  --color-surface: #f6f8f5;
+  --color-muted: #5c6b62;
+  --color-ink: #0f1f17;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-brand-surface text-[color:var(--color-ink)] antialiased;
+  }
+
+  ::selection {
+    background-color: color-mix(in srgb, var(--color-brand-accent) 45%, white);
+    color: var(--color-ink);
+  }
+}

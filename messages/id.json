@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Saripati ASIA | Perdagangan Komoditas Pertanian",
+    "description": "Sourcing B2B untuk rempah, produk kelapa, arang, kopi, minyak atsiri, dan komoditas pertanian khusus di Asia.",
+    "keywords": "perdagangan komoditas, ekspor rempah, kopra, arang batok, kopi robusta, minyak nilam, ekspor pertanian Indonesia, B2B curah"
+  },
+  "nav": {
+    "products": "Produk",
+    "contact": "Kontak",
+    "location": "Lokasi",
+    "language": "Bahasa",
+    "tagline": "Perdagangan komoditas"
+  },
+  "hero": {
+    "eyebrow": "Perdagangan komoditas pertanian",
+    "title": "Pasokan terpercaya untuk pembeli global",
+    "subtitle": "Saripati ASIA menghubungkan pabrik, koperasi, dan pengepak dengan produsen, manufaktur, dan distributor yang membutuhkan kualitas konsisten dalam skala besar.",
+    "ctaPrimary": "Minta penawaran curah",
+    "ctaSecondary": "Jelajahi kategori",
+    "panel": {
+      "a": { "title": "QC di asal", "body": "Parameter kelembaban, campuran asing, dan minyak sesuai PO Anda." },
+      "b": { "title": "Meja trading", "body": "Koordinasi English & Bahasa Indonesia dengan pabrik dan lab." },
+      "c": { "title": "Gaya kemasan", "body": "Curah, siap ritel, dan private label sesuai permintaan." },
+      "d": { "title": "Jalur inti", "body": "Rempah, derivatif kelapa, arang, kopi, minyak, komoditas khusus." }
+    }
+  },
+  "valueProps": {
+    "title": "Dirancang untuk perdagangan B2B",
+    "items": {
+      "quality": {
+        "title": "Spesifikasi grade ekspor",
+        "body": "Ukuran screen, kelembaban, kandungan minyak, dan kotoran asing sesuai daftar Anda."
+      },
+      "logistics": {
+        "title": "Kemasan siap kirim",
+        "body": "Goni, PP, vakum, atau format industri yang selaras dengan persyaratan pelabuhan dan asuransi."
+      },
+      "compliance": {
+        "title": "Dokumentasi terlacak",
+        "body": "Sertifikat asal, fitosaniter, dan hasil lab dikoordinasikan dengan forwarder Anda."
+      }
+    }
+  },
+  "products": {
+    "title": "Katalog komoditas",
+    "subtitle": "Dikelompokkan agar mudah dinavigasi. Sentuh kategori untuk melihat grade dan nama lokal.",
+    "subtitleCategories": "Telusuri per kategori. Setiap halaman memuat grade ekspor, nama dagang lokal, dan jalur pertanyaan untuk lini tersebut.",
+    "variantsLabel": "Grade & potongan",
+    "inquireCta": "Tanya ketersediaan"
+  },
+  "categoryCards": {
+    "explore": "Jelajahi kategori"
+  },
+  "categoryPage": {
+    "breadcrumbHome": "Beranda",
+    "heroTitle": "{category} premium dari Indonesia"
+  },
+  "productList": {
+    "heading": "Produk dalam kategori ini",
+    "subheading": "Pilih komoditas untuk melihat grade, spesifikasi, dan meminta penawaran yang disesuaikan.",
+    "viewDetails": "Lihat detail"
+  },
+  "productPage": {
+    "breadcrumbHome": "Beranda",
+    "specsTitle": "Spesifikasi & varian",
+    "specsIntro": "Grade dan potongan representatif yang kami koordinasikan dengan pabrik dan pengepak. Spesifikasi akhir mengikuti PO dan pemeriksaan lab Anda.",
+    "specsColVariant": "Grade / varian",
+    "specsColNotes": "Kemasan & QC",
+    "specsRowNotes": "Format curah (goni, PP, kertas), kelembaban, campuran asing, dan sertifikat disesuaikan dengan kontrak Anda.",
+    "specsFootnote": "Butuh potongan, screen, atau dokumentasi tujuan yang berbeda?",
+    "specsFootnoteCta": "Hubungi meja trading",
+    "specs": {
+      "standardRow": "Penawaran ekspor standar"
+    },
+    "inquiryTitle": "Minta penawaran untuk {product}",
+    "inquirySubtitle": "Cantumkan volume, pelabuhan tujuan, dan parameter target. Kami akan konfirmasi ketersediaan dan indikasi ketentuan untuk SKU ini."
+  },
+  "metaCategory": {
+    "title": "Ekspor curah {category} | Saripati ASIA",
+    "description": "{category} — {summary} Sourcing B2B, grade, dan kemasan siap kirim dari Indonesia."
+  },
+  "metaProduct": {
+    "title": "{product} B2B curah | Saripati ASIA",
+    "description": "{product} ({category}) untuk pembeli internasional. Grade meliputi: {variants}. Minta spesifikasi, kemasan, dan dokumentasi untuk pelabuhan Anda.",
+    "keywords": "{product}, {category}, ekspor curah Indonesia, perdagangan komoditas, Saripati ASIA"
+  },
+  "contact": {
+    "title": "Hubungi kami",
+    "subtitle": "Cantumkan volume, pelabuhan tujuan, dan target spesifikasi. Tim trading kami akan membalas dengan ketersediaan dan indikasi harga.",
+    "fields": {
+      "company": "Nama perusahaan",
+      "name": "Nama lengkap",
+      "email": "Email kerja",
+      "phone": "Telepon / WhatsApp",
+      "commodity": "Komoditas yang diminati",
+      "volume": "Perkiraan volume bulanan",
+      "message": "Kebutuhan & incoterms"
+    },
+    "placeholders": {
+      "company": "mis. Pacific Ingredients Ltd.",
+      "name": "Nama Anda",
+      "email": "anda@perusahaan.com",
+      "phone": "Sertakan kode negara",
+      "commodity": "Pilih atau jelaskan lini produk",
+      "volume": "mis. 2–5 FCL per bulan",
+      "message": "Spesifikasi, kemasan, sertifikasi, tujuan…"
+    },
+    "submit": "Kirim pertanyaan",
+    "sending": "Mengirim…",
+    "success": "Terima kasih. Pertanyaan Anda telah kami terima. Kami akan membalas paling lambat satu hari kerja.",
+    "error": "Terjadi kesalahan. Silakan coba lagi atau email kami langsung."
+  },
+  "location": {
+    "title": "Kunjungan & logistik",
+    "subtitle": "Koordinasikan inspeksi, pengambilan sampel, dan dokumentasi dengan tim operasional kami.",
+    "addressLabel": "Alamat terdaftar",
+    "addressLines": "Saripati ASIA — Perdagangan Komoditas\nDaerah Khusus Ibukota Jakarta\nIndonesia",
+    "note": "Perbarui blok ini dengan alamat entitas hukum dan NPWP setelah final.",
+    "mapTitle": "Pratinjau peta",
+    "openMaps": "Buka di OpenStreetMap"
+  },
+  "footer": {
+    "rights": "© {year} Saripati ASIA. Hak cipta dilindungi undang-undang.",
+    "tagline": "Komoditas pertanian untuk rantai pasok global."
+  },
+  "language": {
+    "en": "English",
+    "id": "Bahasa Indonesia"
+  }
+}
